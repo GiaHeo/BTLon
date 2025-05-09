@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+.vscode/
+.idea/
+
+# Data files (optional)
+# Uncomment if you don't want to include data files in your repository
+# data/
+
+# Logs
+*.log
